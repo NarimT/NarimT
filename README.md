@@ -16,7 +16,7 @@
 Detect and count oil palms in drone imagery; NDVI adds tree health insights.
 
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NarimT/Computer-Vision-Project)
-[![Demo](https://img.shields.io/badge/Demo-Earth_Engine-34A853?style=flat-square&logo=google-earth&logoColor=white)](https://code.earthengine.google.com/0cd971d3d886ab24f4277f910cc730c3)
+[![Demo](https://img.shields.io/badge/Demo-Earth_Engine-34A853?style=flat-square&logo=google-earth&logoColor=white)](https://daring-thought-480112-g0.projects.earthengine.app/view/newapp2)
 [![Paper](https://img.shields.io/badge/Paper-CVPR_Format-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://github.com/NarimT/Computer-Vision-Project/st124895_st125983-.pdf)
 
 | Area | Detections | Models |
