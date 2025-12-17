@@ -6,8 +6,6 @@
 
 M.Sc.  Data Science & AI — Asian Institute of Technology
 
-[Email](mailto:st125983@ait.asia) · [GitHub](https://github.com/NarimT)
-
 </div>
 
 ---
