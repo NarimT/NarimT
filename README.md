@@ -19,9 +19,9 @@ Detect and count oil palms in drone imagery; NDVI adds tree health insights.
 [![Demo](https://img.shields.io/badge/Demo-Earth_Engine-34A853?style=flat-square&logo=google-earth&logoColor=white)](https://daring-thought-480112-g0.projects.earthengine.app/view/newapp2)
 [![Paper](https://img.shields.io/badge/Paper-CVPR_Format-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://github.com/NarimT/Computer-Vision-Project/st124895_st125983-.pdf)
 
-| Area | Detections | Models |
+| Area | mAP@50 | Models |
 |:-----|:----------:|:-------|
-| 158 ha | 8,083 palms | YOLOv8 + SAHI · Faster R-CNN |
+| 158 ha | **0.811** | YOLOv8 + SAHI · Faster R-CNN |
 
 </div>
 
@@ -29,13 +29,14 @@ Detect and count oil palms in drone imagery; NDVI adds tree health insights.
 
 <div align="center">
 
-### Stock Trend Predictor (NVDA, Next‑Hour)  
+### Stock Trend Predictor 
 Predict NVDA’s **next‑hour direction (UP/DOWN)** from an hourly, multi‑source dataset with systematic ablation + deployment‑ready models.
 
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NarimT/Stock-Trend-Prediciton)
+[![Demo](https://img.shields.io/badge/Demo-EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://98.93.13.144/)
 [![Report](https://img.shields.io/badge/Paper-CVPR_Format-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://github.com/NarimT/Stock-Trend-Prediciton/blob/main/Documents/FINAL_REPORT_MACHINE_LEARNING_PROJECT___Q_and_friends.pdf)
 
-| Horizon | Best Val Acc | Deployment |
+| Horizon | Best Val Acc | Models |
 |:--|:--:|:--|
 | 1 hour | **0.569** | LightGBM (0.3–0.6 MB · 5–15 ms) |
 
@@ -43,6 +44,23 @@ Predict NVDA’s **next‑hour direction (UP/DOWN)** from an hourly, multi‑sou
 
 ---
 
+<div align="center">
+
+### Accident Severity Hotspot Predictor
+Predict **high/low accident severity** and visualize **hotspots** on interactive maps via a Streamlit web app.
+
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NarimT/Car-Accident-Prediction)
+[![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/thaweewatboy/thailand-road-accident-2019-2022)
+[![Demo](https://img.shields.io/badge/App-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://github.com/NarimT/Car-Accident-Prediction)
+[![Report](https://img.shields.io/badge/Paper-CVPR_Format-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://github.com/NarimT/Car-Accident-Prediction/blob/main/Gana_finalreport.pdf)
+
+| Scope | Best Val Acc | Models |
+|:--|:--:|:--|
+| Thailand (2019-2022) | **0.84** | XGBoost·LightGBM |
+
+</div>
+
+---
 ## 👁️ Computer Vision
 
 - [Computer-Vision-Experiments](https://github.com/NarimT/Computer-Vision-Experiments) — GrabCut · FCN · VAE  
