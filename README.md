@@ -8,7 +8,7 @@
 
 ---
 
-## 🌴 Featured
+## Featured Pro
 
 <div align="center">
 
@@ -22,6 +22,22 @@ Detect and count oil palms in drone imagery; NDVI adds tree health insights.
 | Area | Detections | Models |
 |:-----|:----------:|:-------|
 | 158 ha | 8,083 palms | YOLOv8 + SAHI · Faster R-CNN |
+
+</div>
+
+---
+
+<div align="center">
+
+### Stock Trend Predictor (NVDA, Next‑Hour)  
+Predict NVDA’s **next‑hour direction (UP/DOWN)** from an hourly, multi‑source dataset with systematic ablation + deployment‑ready models.
+
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NarimT/Stock-Trend-Prediciton)
+[![Report](https://img.shields.io/badge/Paper-CVPR_Format-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://github.com/NarimT/Stock-Trend-Prediciton/blob/main/Documents/FINAL_REPORT_MACHINE_LEARNING_PROJECT___Q_and_friends.pdf)
+
+| Horizon | Best Val Acc | Deployment |
+|:--|:--:|:--|
+| 1 hour | **0.569** | LightGBM (0.3–0.6 MB · 5–15 ms) |
 
 </div>
 
