@@ -33,7 +33,6 @@ Detect and count oil palms in drone imagery; NDVI adds tree health insights.
 Predict NVDA’s **next‑hour direction (UP/DOWN)** from an hourly, multi‑source dataset with systematic ablation + deployment‑ready models.
 
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NarimT/Stock-Trend-Prediciton)
-[![Demo](https://img.shields.io/badge/Demo-EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://98.93.13.144/)
 [![Report](https://img.shields.io/badge/Paper-CVPR_Format-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://github.com/NarimT/Stock-Trend-Prediciton/blob/main/Documents/FINAL_REPORT_MACHINE_LEARNING_PROJECT___Q_and_friends.pdf)
 
 | Horizon | Best Val Acc | Models |
@@ -51,7 +50,6 @@ Predict **high/low accident severity** and visualize **hotspots** on interactive
 
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NarimT/Car-Accident-Prediction)
 [![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/thaweewatboy/thailand-road-accident-2019-2022)
-[![Demo](https://img.shields.io/badge/App-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://github.com/NarimT/Car-Accident-Prediction)
 [![Report](https://img.shields.io/badge/Paper-CVPR_Format-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://github.com/NarimT/Car-Accident-Prediction/blob/main/Gana_finalreport.pdf)
 
 | Scope | Best Val Acc | Models |
