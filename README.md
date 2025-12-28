@@ -8,7 +8,7 @@
 
 ---
 
-## Featured Pro
+## Featured Projects
 
 <div align="center">
 
@@ -49,7 +49,6 @@ Predict NVDA’s **next‑hour direction (UP/DOWN)** from an hourly, multi‑sou
 Predict **high/low accident severity** and visualize **hotspots** on interactive maps via a Streamlit web app.
 
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NarimT/Car-Accident-Prediction)
-[![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/thaweewatboy/thailand-road-accident-2019-2022)
 [![Report](https://img.shields.io/badge/Paper-CVPR_Format-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://github.com/NarimT/Car-Accident-Prediction/blob/main/Gana_finalreport.pdf)
 
 | Scope | Best Val Acc | Models |
