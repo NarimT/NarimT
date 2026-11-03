@@ -29,6 +29,22 @@ Detect and count oil palms in drone imagery; NDVI adds tree health insights.
 
 <div align="center">
 
+### Natural Language Processing Project
+End-to-end NLP pipeline for text preprocessing, tokenization, and transformer-based text classification with evaluation.
+
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NarimT/Natural-Language-Processing-Project)
+[![Notebook](https://img.shields.io/badge/Notebook-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/NarimT/Natural-Language-Processing-Project)
+
+| Task | Performance | Models |
+|:-----|:----------:|:-------|
+| Text Classification | **XX.X%** | BERT · Transformers · TF-IDF |
+
+</div>
+
+---
+
+<div align="center">
+
 ### Stock Trend Predictor 
 Predict NVDA’s **next‑hour direction (UP/DOWN)** from an hourly, multi‑source dataset with systematic ablation + deployment‑ready models.
 
