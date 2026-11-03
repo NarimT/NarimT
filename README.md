@@ -86,6 +86,7 @@ Predict **high/low accident severity** and visualize **hotspots** on interactive
 
 ## 🤖 Machine Learning & NLP
 
+- [Natural-Language-Processing-Project](https://github.com/NarimT/Natural-Language-Processing-Project) — Self-contradiction detection · GraphRAG · DeBERTa-v3  
 - [Car_price_dash_](https://github.com/NarimT/Car_price_dash_) — MLflow · Docker · Dash  
 - [Knowledge_graph_demo](https://github.com/NarimT/Knowledge_graph_demo) — Entity extraction & relations  
 - [DL_00](https://github.com/NarimT/DL_00) — Deep learning experiments  
