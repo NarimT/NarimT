@@ -29,15 +29,15 @@ Detect and count oil palms in drone imagery; NDVI adds tree health insights.
 
 <div align="center">
 
-### Natural Language Processing Project
-End-to-end NLP pipeline for text preprocessing, tokenization, and transformer-based text classification with evaluation.
+### Lost in Contradiction — Self-Contradiction Detection
+Detect internal self-contradictions in long documents with a Neo4j GraphRAG cascade — trading raw recall for higher precision and explainability over a full-document LLM baseline.
 
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NarimT/Natural-Language-Processing-Project)
-[![Notebook](https://img.shields.io/badge/Notebook-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/NarimT/Natural-Language-Processing-Project/experiments)
+[![Paper](https://img.shields.io/badge/Paper-CVPR_Format-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://github.com/NarimT/Natural-Language-Processing-Project/blob/main/LostInContradiction_Final_Report.pdf)
 
-| Task | Performance | Models |
+| Benchmark | Best F1 | Models |
 |:-----|:----------:|:-------|
-| Text Classification | **XX.X%** | BERT · Transformers · TF-IDF |
+| 150 docs · 122 gold pairs | **42.3%** | Claude Opus/Sonnet · DeBERTa-v3 · Neo4j GraphRAG |
 
 </div>
 
