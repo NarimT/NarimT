@@ -30,7 +30,7 @@ Detect and count oil palms in drone imagery; NDVI adds tree health insights.
 <div align="center">
 
 ### Natural Language Processing Project
-End-to-end NLP pipeline for text preprocessing, tokenization, and transformer-based text classification with evaluation.
+End-to-end NLP pipeline for triple extraction, GraphRAG retrieval, and transformer-based contradiction classification in long documents with LLM judging and evaluation.
 
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NarimT/Natural-Language-Processing-Project)
 [![Notebook](https://img.shields.io/badge/Notebook-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/NarimT/Natural-Language-Processing-Project/blob/main/experiments)
@@ -38,7 +38,7 @@ End-to-end NLP pipeline for text preprocessing, tokenization, and transformer-ba
 
 | Task | Performance | Models |
 |:-----|:----------:|:-------|
-| Self-Contradiction Detection | **F1 42.3%** | Claude · DeBERTa-v3 · Neo4j GraphRAG |
+| Text Classification | **F1 42.3%** | Claude · DeBERTa-v3 · Neo4j GraphRAG |
 
 </div>
 
