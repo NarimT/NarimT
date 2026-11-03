@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=160&section=header&text=Nariman%20Tursaliev&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=8E54E9&center=true&vCenter=true&width=720&lines=AI+Engineer;Computer+Vision+%7C+Deep+Learning;M.Sc.+Data+Science+%26+AI+at+AIT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=8E54E9&center=true&vCenter=true&width=720&lines=AI+Engineer;Computer+Vision+%7C+Deep+Learning+NLP;M.Sc.+Data+Science+%26+AI)](https://git.io/typing-svg)
 
 </div>
 
