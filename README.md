@@ -85,6 +85,15 @@ Predict **high/low accident severity** and visualize **hotspots** on interactive
 ---
 
 ## 🤖 Machine Learning & NLP
+End-to-end NLP progression from word embeddings to LLM agents.
+​
+- [NLP_Project_1](https://github.com/NarimT/NLP_Project_1) — Semantic Search · Word2Vec · GloVe · Flask
+- [NLP_Project_2](https://github.com/NarimT/NLP_Project_2) — LSTM Language Model · Tiny Shakespeare · Text Generation · Flask
+- [NLP_Project_3](https://github.com/NarimT/NLP_Project_3) — Kyrgyz-English NMT · BiLSTM · General vs Additive Attention · Flask
+- [NLP_Project_4](https://github.com/NarimT/NLP_Project_4) — BERT from Scratch · Sentence-BERT · NLI · SNLI/MNLI
+- [NLP_Project_5](https://github.com/NarimT/NLP_Project_5) — DPO Alignment · Qwen2.5-0.5B · LoRA · LLM-as-a-Judge
+- [NLP_Project_6](https://github.com/NarimT/NLP_Project_6) — Naive RAG vs Contextual Retrieval · MiniLM · Streamlit
+- [NLP_Project_7](https://github.com/NarimT/NLP_Project_7) — MCP Server · AI Agent · n8n · Telegram + Google Calendar
 
 - [Natural-Language-Processing-Project](https://github.com/NarimT/Natural-Language-Processing-Project) — Self-contradiction detection · GraphRAG · DeBERTa-v3  
 - [Car_price_dash_](https://github.com/NarimT/Car_price_dash_) — MLflow · Docker · Dash  
